@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "絶対彼女",
+  "base_artist": "大森靖子",
+  "createdAt": "2026-01-04T16:46:53.705330Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "絶対彼女",
+      "artist": "Seiko Oomori",
+      "has_synced": true,
+      "path": "select/01_絶対彼女_Seiko_Oomori.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "絶対彼女",
+      "artist": "大森靖子",
+      "has_synced": true,
+      "path": "select/02_絶対彼女_大森靖子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Zettai Kanojo [絶対彼女]",
+      "artist": "Seiko Oomori",
+      "has_synced": false,
+      "path": "select/03_Zettai_Kanojo_[絶対彼女]_Seiko_Oomori.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "絶対彼女 feat. 道重さゆみ",
+      "artist": "Seiko Oomori",
+      "has_synced": true,
+      "path": "select/04_絶対彼女_feat._道重さゆみ_Seiko_Oomori.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絶対彼女",
+      "artist": "大森靖子",
+      "has_synced": false,
+      "path": "select/pl_01_絶対彼女_大森靖子.txt"
+    }
+  ]
+}
